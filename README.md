@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhdemmer
+- 👋 Hi, I’m Ron
 - 👀 I’m interested in Linux, games, music, racing, vinyl records, model railways and many other things.
 - 🌱 I’m currently learning more advanced Python.
 - 📫 You can reach me by e-mail: c2b[plus]reachme[at]demmer[dot]ruhr
